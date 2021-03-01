@@ -20,6 +20,8 @@ I use this profile for all personal projects and blog related content.
 
 ### 📰 Checkout my latest blog posts...
 
+- [Automate Azure DevOps self-hosted agent installation using Terraform](https://jamescook.dev/azuredevops-linux-agent-install-using-terraform)
+
 - [Implement RBAC on Azure Key Vault](https://jamescook.dev/implement-rbac-on-azure-key-vault)
 
 - [Cleanup your Azure DevOps Serviuce Principals](https://jamescook.dev/cleanup-azure-devops-service-principals)
