@@ -20,6 +20,8 @@ I use this profile for all personal projects and blog related content.
 
 ### 📰 Checkout my latest blog posts...
 
+- [Enforce MFA on the Azure Portal using Conditional Access](https://jamescook.dev/mfa-on-azure-portal)
+
 - [Create your own Azure Images using Packer](https://jamescook.dev/azure-images-using-packer)
 
 - [Automate Azure DevOps self-hosted agent installation using Terraform](https://jamescook.dev/azuredevops-linux-agent-install-using-terraform)
