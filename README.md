@@ -20,6 +20,8 @@ I use this profile for all personal projects and blog related content.
 
 ### 📰 Checkout my latest blog posts...
 
+- [My Journey to Microsoft Certified Azure DevOps Engineer Expert](https://jamescook.dev/my-journey-azure-devops-expert)
+
 - [Enforce MFA on the Azure Portal using Conditional Access](https://jamescook.dev/mfa-on-azure-portal)
 
 - [Create your own Azure Images using Packer](https://jamescook.dev/azure-images-using-packer)
