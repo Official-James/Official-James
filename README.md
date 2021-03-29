@@ -20,6 +20,8 @@ I use this profile for all personal projects and blog related content.
 
 ### 📰 Checkout my latest blog posts...
 
+- [Ctrl+Shift+A in Windows Terminal to launch Azure CLI authentication](https://jamescook.dev/ctrlshifta-windowsterminal-azurecli)
+
 - [Azure Budget Monitoring using Tags and Dashbaords](https://jamescook.dev/azure-budget-monitoring-using-tags-and-dashboards)
 
 - [My Journey to Microsoft Certified Azure DevOps Engineer Expert](https://jamescook.dev/my-journey-azure-devops-expert)
