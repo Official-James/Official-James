@@ -20,6 +20,8 @@ I use this profile for all personal projects and blog related content.
 
 ### 📰 Checkout my latest blog posts...
 
+- [Best Practice: Terraform State in Azure Blob Container](https://jamescook.dev/bestpractice-terraformstate-azureblob)
+
 - [Azure Data Fundamentals (DP-900) - My Story and Study Resources](https://jamescook.dev/azure-dp900-storyandstudyresources)
 
 - [Ctrl+Shift+A in Windows Terminal to launch Azure CLI authentication](https://jamescook.dev/ctrlshifta-windowsterminal-azurecli)
