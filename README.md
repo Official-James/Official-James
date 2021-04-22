@@ -20,6 +20,8 @@ I use this profile for all personal projects and blog related content.
 
 ### 📰 Checkout my latest blog posts...
 
+- [Azure Disk Encryption for Data Disk on Linux](https://jamescook.dev/azurediskencryption-linuxdatadisk)
+
 - [Best Practice: Terraform State in Azure Blob Container](https://jamescook.dev/bestpractice-terraformstate-azureblob)
 
 - [Azure Data Fundamentals (DP-900) - My Story and Study Resources](https://jamescook.dev/azure-dp900-storyandstudyresources)
