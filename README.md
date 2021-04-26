@@ -20,6 +20,8 @@ I use this profile for all personal projects and blog related content.
 
 ### 📰 Checkout my latest blog posts...
 
+- [Static Code Analyses - Checkov, Terraform and Azure DevOps](https://jamescook.dev/codeanalyses-checkov-terraform-azuredevops)
+
 - [Azure Disk Encryption for Data Disk on Linux](https://jamescook.dev/azurediskencryption-linuxdatadisk)
 
 - [Best Practice: Terraform State in Azure Blob Container](https://jamescook.dev/bestpractice-terraformstate-azureblob)
